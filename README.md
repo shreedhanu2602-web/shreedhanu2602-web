@@ -1,16 +1,51 @@
-## Hi there 👋
+Hi, I'm Dhanu Shree 👋
 
-<!--
-**shreedhanu2602-web/shreedhanu2602-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student
+💻 Web Developer | Java Learner | Tech Enthusiast
+🚀 Still learning. Still building.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Interested in Web Development and Software Development
+- 🌱 Currently learning Java, Python, DBMS and DSA
+- 🚀 Building projects using HTML, CSS and JavaScript
+- 🏆 Hackathon & technical event enthusiast
+- 📚 Always learning and exploring new technologies
+
+  ## 🛠️ Tech Stack
+
+### Languages
+☕ Java | 🐍 Python | 💻 C | 🌐 HTML | 🎨 CSS | ⚡ JavaScript
+
+### Database
+🗄️ MySQL | SQL Server
+
+### Tools
+🐙 GitHub | 🔧 Git | 💻 VS Code
+
+## 🏆 Achievements
+
+- 🥇 Hackathon Participant
+- 💻 Completed Web Development Projects
+- 📜 Technical Certifications
+- 🌎 Participated in Technical Events
+- 🏅 World Record Holder
+- 📖 Author of a Book
+
+  ## 🌱 Currently Learning
+
+- ☕ Advanced Java
+- 🧩 Data Structures & Algorithms
+- 🗄️ DBMS
+- 🌐 JavaScript
+- 🐍 Python
+- 🤖 AI & Emerging Technologies
+
+## 🎯 2027 Goals
+
+- 🚀 Build 10+ projects
+- 🏆 Participate in more hackathons
+- 💼 Get an internship
+- 💻 Improve DSA skills
+- 🌐 Build real-world web applications
+- 📚 Contribute to Open Source
