@@ -49,3 +49,32 @@ Hi, I'm Dhanu Shree 👋
 - 💻 Improve DSA skills
 - 🌐 Build real-world web applications
 - 📚 Contribute to Open Source
+
+  ## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio
+
+A responsive personal portfolio website showcasing my skills,
+projects, achievements and learning journey.
+
+*Tech:* HTML • CSS • JavaScript
+
+### 🤖 CodeMentor AI
+
+An AI-based learning/project concept developed to explore
+technology and intelligent digital solutions.
+
+*Tech:* HTML • CSS • JavaScript
+
+### 🔄 UseBack
+
+*Turn Unused Things Into Useful Things*
+
+A creative platform concept that encourages people to reuse
+unused items and give them a useful second life.
+
+*Tech:* HTML • CSS • JavaScript
+
+### 💙 Thanks for visiting my profile!
+
+> *Code. Learn. Build. Repeat. 🚀*
